@@ -52,7 +52,7 @@ Material:
     - _Cull: 2
     - _DstBlend: 1
     - _Intensity: 1
-    - _Offset: 70.96999
+    - _Offset: 44.28275
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5

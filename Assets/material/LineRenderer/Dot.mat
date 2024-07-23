@@ -51,8 +51,8 @@ Material:
     - _CastShadows: 0
     - _Cull: 2
     - _DstBlend: 1
-    - _Intensity: 1.1246231
-    - _Offset: 50.956814
+    - _Intensity: 1.2703204
+    - _Offset: 31.624437
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
