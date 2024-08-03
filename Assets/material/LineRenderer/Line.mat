@@ -49,10 +49,10 @@ Material:
     - _AlphaToMask: 0
     - _Blend: 2
     - _CastShadows: 0
-    - _Cull: 2
+    - _Cull: 0
     - _DstBlend: 1
     - _Intensity: 1
-    - _Offset: 44.28275
+    - _Offset: 0.88638216
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
